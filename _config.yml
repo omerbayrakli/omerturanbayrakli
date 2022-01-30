@@ -51,11 +51,11 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             cv
-    url:               /cv.html
+    url:               /cv
   - title:             blog
-    url:               /blog.html
+    url:               /blog
   - title:             projects
-    url:               /projects.html
+    url:               /projects
 
 # Theme
 # ---------------------------------------------------------------------------------------
