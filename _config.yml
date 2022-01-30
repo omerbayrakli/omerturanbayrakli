@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://omerbayrakli.github.io/omerturanbayrakli
+url:                   https://omerbayrakli.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -67,7 +67,7 @@ remote_theme: hydecorp/hydejack@v9.1.5
  
 # Sidebar image and theme color of the site.
 accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
-accent_image: '/assets/background.jpg'
+accent_image: 'assets/background.jpg'
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
