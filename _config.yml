@@ -222,5 +222,3 @@ compress_html:
 
 sass:
   style:               compressed
-
-favicon: assets/icons/favicon-32x32.png
