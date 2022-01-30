@@ -3,6 +3,10 @@ telegram:
   name: Telegram
   icon: si-telegram
   prepend: "https://t.me/"
+twitter:
+  name: Twitter
+  icon: si-twitter
+  prepend: "https://twitter.com/"
 github:
   name: GitHub
   icon: si-github
