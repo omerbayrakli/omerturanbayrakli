@@ -192,7 +192,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
-# Used on index and about sites
+# Used on index and     about sites
 social:
   name:                Omer Turan Bayrakli
 
@@ -222,3 +222,11 @@ compress_html:
 
 sass:
   style:               compressed
+
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true

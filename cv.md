@@ -1,7 +1,7 @@
 ---
 title: My CV
 description: My cv
-layout: cv
+layout: page
 cover: true
 permalink: /cv/
 ---

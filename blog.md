@@ -1,7 +1,7 @@
 ---
 title: My Blog
 description: My Blog
-layout: blog
+layout: page
 cover: true
 permalink: /blog/
 ---
