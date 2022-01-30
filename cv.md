@@ -5,12 +5,12 @@ layout: page
 cover: true
 permalink: /cv/
 ---
-Please click [here](https://omerbayrakli.github.io/omerturanbayrakli/assets/omer_cv.pdf) to access my cv.
+### Please click [here](https://omerbayrakli.github.io/omerturanbayrakli/assets/omer_cv.pdf) to access my cv.
 
 Education
 ======
-* High School in Maths \& Sciences, Çınar Koleji, 2020-2021
-* High School in Maths \& Sciences, Beylikdüzü Cahit Zarifoğlu Anatolian High School, 2017-2020
+* High School in Maths & Sciences, Çınar Koleji, 2020-2021
+* High School in Maths & Sciences, Beylikdüzü Cahit Zarifoğlu Anatolian High School, 2017-2020
 
 Related Experience
 ======
