@@ -12,7 +12,7 @@ url:                   https://omerbayrakli.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               '\omerturanbayrakli'
+baseurl:               '/omerturanbayrakli'
 
 
 # General settings
@@ -223,10 +223,3 @@ compress_html:
 sass:
   style:               compressed
 
-collections:
-  featured_categories:
-    permalink:         /:name/
-    output:            true
-  featured_tags:
-    permalink:         /tag-:name/
-    output:            true
