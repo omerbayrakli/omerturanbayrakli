@@ -2,7 +2,7 @@
 title: My CV
 description: My cv
 layout: cv
-
+permanlink: \cv
 ---
 
 
