@@ -1,11 +1,10 @@
 ---
-title: My Blog
-description: My Blog
+title: Blog Entries
+description: Last updated on Jan 30, 2022
 layout: page
 cover: true
 permalink: /blog/
 ---
-
 
 ## Why do people buy cryptocurrencies?
 

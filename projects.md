@@ -1,11 +1,10 @@
 ---
 title: My Projects
-description: My projects
+description: Last updated on Jan 30, 2022
 layout: page
 cover: true
 permalink: /projects/
 ---
-
 
 ## My projects
 

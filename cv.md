@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-description: Updated on Jan 30, 2022
+description: Last updated on Jan 30, 2022
 layout: page
 cover: true
 permalink: /cv/
