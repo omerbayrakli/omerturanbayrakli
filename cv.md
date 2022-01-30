@@ -1,9 +1,10 @@
 ---
-title: My CV
-description: My cv
+title: My Blog
+description: My Blog
 layout: page
 cover: true
 permalink: /cv/
 ---
-###  My Cv 
-Hello friends, this is my [CV](https://omerturanbayrakli.com/assets/academic_cv_ok.pdf)
+
+
+## Please click [here](https://omerbayrakli.github.io/assets/omerturanbayrakli/omer_cv.pdf) to acces my cv.
