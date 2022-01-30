@@ -6,7 +6,6 @@ cover: true
 permalink: /
 ---
 
-# Hi there!
 Welcome to my personal website. My name is Ömer and on this website I will be sharing:
 * blog posts about educational technology both in Turkish and English
 * my computational projects
