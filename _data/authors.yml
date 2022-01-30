@@ -1,10 +1,8 @@
 author:
   # Used by `jekyll-feed`:
-  name:                Austin Huang
-  email:               im@austinhuang.me
+  name:                Omer Turan Bayrakli
+  email:               omerturanbayrakli@gmail.com
   social:
-    github: austinhuang0131
-    linkedin: austinhuang0131
-    matrix: '@austin:tchncs.de'
-    mastodon: 'https://ieji.de/@austin'
-    reddit: austinhuang
+    github: omerbayrakli
+    linkedin: omerbayrakli
+    twitter: omer_bayrakli

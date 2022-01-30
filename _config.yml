@@ -23,10 +23,10 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Austin Huang
+title:                 Omer Turan Bayrakli
 
 # A shorter description for the sidebar.
-tagline:               Code • Guide • Life
+tagline:               Code • Blog • Tech
 
 # A list of keywords for your blog
 keywords:              []
@@ -34,34 +34,28 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/android-chrome-512x512.png
+logo:                  /assets/pp.JPG
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Austin Huang
-  email:               im@austinhuang.me
+  name:                Omer Turan Bayrakli
+  email:               omerturanbayrakli@gmail.com
   social:
-    github: austinhuang0131
-    linkedin: austinhuang0131
-    matrix: '@austin:tchncs.de'
-    mastodon: 'https://ieji.de/@austin'
-    reddit: austinhuang
+    github: omerbayrakli
+    linkedin: omerbayrakli
+    twitter: omer_bayrakli
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             my guides
-    url:               /guides.html
-  - title:             gib money
-    url:               /donate.html
-
-legal:
-  - title: License
-    url:  /license.html
-  - title: Legal
-    url:  /legal.html
+  - title:             cv
+    url:               /cv.html
+  - title:             blog
+    url:               /blog.html
+  - title:             projects
+    url:               /projects.html
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -73,7 +67,7 @@ remote_theme: hydecorp/hydejack@v9.1.5
  
 # Sidebar image and theme color of the site.
 accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
-accent_image: '/assets/sidebar-bg.jpg'
+accent_image: '/assets/background.jpg'
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -200,7 +194,7 @@ plugins:
 
 # Used on index and about sites
 social:
-  name:                Austin Huang
+  name:                Omer Turan Bayrakli
 
 
 # Plugin Configs
