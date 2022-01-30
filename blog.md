@@ -3,7 +3,7 @@ title: My Blog
 description: My Blog
 layout: blog
 cover: true
-permalink: \blog
+permalink: /blog/
 ---
 
 
