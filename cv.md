@@ -1,7 +1,7 @@
 ---
 title: My CV
 description: My cv
-permalink: /cv/
+layout: cv
 
 ---
 
