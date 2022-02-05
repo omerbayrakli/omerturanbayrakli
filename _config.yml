@@ -23,7 +23,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Omer Turan Bayrakli
+title:                 Ömer Turan Bayraklı
 
 # A shorter description for the sidebar.
 tagline:               Code • Blog • Tech
@@ -39,7 +39,7 @@ logo:                  assets/pp.JPG
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Omer Turan Bayrakli
+  name:                Ömer Turan Bayraklı
   email:               omerturanbayrakli@gmail.com
   social:
     github: omerbayrakli
@@ -66,13 +66,13 @@ remote_theme: hydecorp/hydejack@v9.1.5
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_color:          rgb(76,195,85) # ACCESS - hex #4CC355
+accent_color:          rgb(166, 214, 230) # ACCESS - hex #4CC355
 accent_image: 'assets/background.jpg'
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           '#bada55' # BADASS
+theme_color:           '#a6d6e6' # BADASS
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
