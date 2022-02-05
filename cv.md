@@ -5,7 +5,7 @@ layout: page
 cover: true
 permalink: /cv/
 ---
-### Please click [here](https://omerbayrakli.github.io/omerturanbayrakli/assets/omer_cv.pdf) to access my cv.
+### Please click [here](http://omerbayrakli.com/assets/omer_cv.pdf) to access my cv.
 
 Education
 ======
