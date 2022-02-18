@@ -48,6 +48,8 @@ author:
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
+google_analytics: G-KXNR88PZ3B
+
 # Add links to the sidebar.
 menu:
   - title:             cv
