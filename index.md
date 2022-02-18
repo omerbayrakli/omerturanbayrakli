@@ -5,7 +5,7 @@ description: I can see that you have walked thousands of miles just to reach thi
 cover: true
 permalink: /
 ---
-Welcome to my personal website. My name is Ömer and on this website I will be sharing:
+Welcome to my website. My name is Ömer and on this website I will be sharing:
 * blog posts about educational technology both in Turkish and English
 * my computational projects
 * recent developments in my life
