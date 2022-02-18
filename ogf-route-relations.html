@@ -255,7 +255,9 @@ function objTextStation( obj, ctx ){
 }
 
 </script>
-
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 </head>
 <body style="margin:0px;" onload="loadMap()">
 
