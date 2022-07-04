@@ -44,5 +44,10 @@ Certificates
  * Social Media Expertise issued by IIENSTITU
  * WordPress Education issued by IIENSTITU
  * Full Merit Scholarship for Computer Educational Technology given by Bahcesehir University (ApplyBAU)
+ 
+
+Honors & Awards 
+======
  * The Sandbox - VOXJAM Series Hackathon 5th out of 200 teams.
+
 
