@@ -7,8 +7,7 @@ permalink: /blog/
 ---
 ## The Sandbox - VoxJam Series Istanbul 
 ### June 29, 2022
-<img src="assets/metro.jpg" alt="drawing" width="200"/> <img src="assets/comp_screen.jpg" alt="drawing" width="200"/> <img src="assets/omer_chilling.jpg" alt="drawing" width="200"/>
-
+<img src="assets/metro.jpg" alt="drawing" width="200"/> <img src="assets/comp_screen.jpg" alt="drawing" width="200"/> <img src="assets/omer_chilling.jpg" alt="drawing" width="200"/><img src="assets/game_photo.png" alt="drawing" width="200"/>
 
 In this blog post, I will talk about my experience in participating in the first edition of The Sandbox - VOXJAM Series Hackathon to represent ‘3cl, my start-up project and company. The Hackathon was organized between 26-27 June 2022 at Yildiz Technical University. Designing a metaverse-based game called "Istanbul Diffused" in a 48-hour time interval, our team qualified to the finals and ranked top 5 among 200 other teams. This was my first hackathon experience and I was incredibly proud that the efforts my team and I put into making an educative game was awarded by professional juries. I am incredibly happy to achieve this milestone, and to become one of the first developers of this universe. 
 
@@ -20,7 +19,7 @@ My goal from now on is to reconcile what I know about educational technology, bl
 
 Take a quick look into the game play of the game we came up with in the hackathon and contact me if you have any questions or comments! 
 
-[![Istanbul Diffused][assets/game_photo.png](https://www.youtube.com/watch?v=v2fdED9GbCU)
+[Istanbul Diffused](https://www.youtube.com/watch?v=v2fdED9GbCU)
 
 #sandbox #hackathon #startup #metaverse #voxelart #nft
 
