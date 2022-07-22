@@ -7,7 +7,7 @@ permalink: /blog/
 ---
 ## The Sandbox - VoxJam Series Istanbul 
 ### June 29, 2022
-![image](assets/metro.jpg)
+<img src="assets/metro.jpg" alt="drawing" width="200"/>
 
 In this blog post, I will talk about my experience in participating in the first edition of The Sandbox - VOXJAM Series Hackathon to represent ‘3cl, my start-up project and company. The Hackathon was organized between 26-27 June 2022 at Yildiz Technical University. Designing a metaverse-based game called "Istanbul Diffused" in a 48-hour time interval, our team qualified to the finals and ranked top 5 among 200 other teams. This was my first hackathon experience and I was incredibly proud that the efforts my team and I put into making an educative game was awarded by professional juries. I am incredibly happy to achieve this milestone, and to become one of the first developers of this universe. 
 
