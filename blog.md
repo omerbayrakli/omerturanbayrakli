@@ -3,7 +3,7 @@ title: Blog Entries
 description: Last updated on Jul 22, 2022
 layout: page
 cover: true
-permalink: 
+permalink: /blog/
 ---
 
 ## The Sandbox - VoxJam Series Istanbul 
