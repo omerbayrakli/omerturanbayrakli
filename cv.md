@@ -1,6 +1,6 @@
 ---
 title: Curriculum Vitae
-description: Last updated on Jan 30, 2022
+description: Last updated on Aug 25, 2022
 layout: page
 cover: true
 permalink: /cv/
@@ -9,6 +9,7 @@ permalink: /cv/
 
 Education
 ======
+* Bachelor's Degree in Econometry, Istanbul University, 2022-2026
 * High School in Maths & Sciences, Çınar Koleji, 2020-2021
 * High School in Maths & Sciences, Beylikdüzü Cahit Zarifoğlu Anatolian High School, 2017-2020
 
